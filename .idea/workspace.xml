@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1f7f660-d89b-49f0-bb3f-9d2a3261e248" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/002-HTML的基本标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003-HTML的实体符号.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-HTML的表格.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005-HTML的表格-单元格合并以及th标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/006-HTML的表格-thead tbody tfoot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007-背景颜色和背景图片.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008-图片.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/code_background.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="256Im8MneNSilBny7laM3PQoj16" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d1f7f660-d89b-49f0-bb3f-9d2a3261e248" name="变更" comment="" />
+      <created>1644841267638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644841267638</updated>
+      <workItem from="1644841269342" duration="165000" />
+      <workItem from="1644841483760" duration="114000" />
+      <workItem from="1644841653437" duration="79000" />
+      <workItem from="1644841747396" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>
