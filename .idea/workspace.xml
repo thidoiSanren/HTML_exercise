@@ -4,9 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1f7f660-d89b-49f0-bb3f-9d2a3261e248" name="变更" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/009-超链接或者叫热链接.html" afterDir="false" />
+    <list default="true" id="d1f7f660-d89b-49f0-bb3f-9d2a3261e248" name="变更" comment="2022.02.17">
+      <change afterPath="$PROJECT_DIR$/.history/009-超链接或者叫热链接_20220217111549.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/009-超链接或者叫热链接_20220217112652.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/009-超链接或者叫热链接_20220217112713.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/009-超链接或者叫热链接_20220217112805.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/009-超链接或者叫热链接_20220217112921.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/009-超链接或者叫热链接_20220217112940.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/009-超链接或者叫热链接_20220217113136.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/010-列表_20220217113154.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/010-列表_20220217113226.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/010-列表_20220217113254.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/010-列表_20220217113308.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/010-列表_20220217113350.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/010-列表_20220217113414.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/010-列表_20220217113446.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/010-列表_20220217113806.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/010-列表_20220217113854.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/010-列表_20220217113918.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/010-列表_20220217113935.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/010-列表_20220217113951.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/010-列表_20220217114100.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/010-列表_20220217114129.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/010-列表_20220217114257.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/010-列表_20220217114323.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/010-列表_20220217114346.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/010-列表_20220217114510.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-列表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/011-表单form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-用户注册的表单.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013-下拉列表支持多选.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014-file控件.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-超链接或者叫热链接.html" beforeDir="false" afterPath="$PROJECT_DIR$/009-超链接或者叫热链接.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +65,15 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="256Im8MneNSilBny7laM3PQoj16" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -68,6 +101,9 @@
       <workItem from="1644841828064" duration="285000" />
       <workItem from="1644890013595" duration="916000" />
       <workItem from="1645002089991" duration="2752000" />
+      <workItem from="1645067085221" duration="1164000" />
+      <workItem from="1645069525698" duration="3917000" />
+      <workItem from="1645092707442" duration="6923000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1644841948620</created>
@@ -83,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644890036326</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2022.02.17">
+      <created>1645067142594</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645067142594</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +144,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="2022.02.17" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.02.17" />
   </component>
 </project>
